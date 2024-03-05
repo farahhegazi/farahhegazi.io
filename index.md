@@ -1,11 +1,11 @@
 # Farah Hegazi 
 #### Hegazif@myumanitoba.ca | +1 (431) 277 9755
-## ** EDUCATION ** 
+## **EDUCATION** 
 
     #### B.Sc. Computer Science Major (Co-op) - University of Manitoba					             2021 - Present
     ####  President of the student council - Dar Jana International school 				             2019 - 2020 
 
-## ** TECHNICAL SKILLS  ** 
+## **TECHNICAL SKILLS** 
     ### PROGRAMMING 
         #### Java, C, C++,  JavaScript, SQLITE, HTML, CSS, Swift, Python
     ### SOFTWARE 
@@ -13,7 +13,7 @@
     ### TECHNOLOGIES/FRAMEWORKS 
         ####Node.js, Figma
 
-## ** PROJECTS **
+## **PROJECTS**
     ### SkinAid  Personal Project									                                             2023 - Present 
          #### An iOS app that uses computer vision to detect and analyze skin issues 
               - Aggregated training data and developed a Machine Learning model using CreateML 
@@ -23,7 +23,7 @@
               - Utilized HTML,CSS, JavaScript along with 4 team members to create this website which resulted in a grade of A in the class
               - Improved the interface  to create a user centered design that is accessible to users
 
-## ** EXTRACURRICULAR **
+## **EXTRACURRICULAR**
 
     ### Mentee, UBISOFT  	  											                                               2023 - 2024
         #### Develop at Ubisoft Program											              
@@ -39,7 +39,7 @@
     ### Instructor, Women In Computer Science & CanU - University of Manitoba 				             2022 - 2023 
                - Taught sessions to young kids about web development and website building using HTML, CSS, and JavaScript 
 
-## **  Work Experience **
+## **Work Experience**
 
     ### Core Retail Sales Associate, Bath and Body Works  				                                           2023 - 2024
          -  Working as front of the shop and selling to assist more than 30 customers per day on average				                                           
