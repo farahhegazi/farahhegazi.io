@@ -11,9 +11,10 @@ An easy guide to create and host your resume on a static website using GitHub Pa
     - [2. Jekyll Themes](#2-jekyll-themes)
     - [3. More Resources](#3-more-resources)
   - [Authors and Acknowledgements](#authors-and-acknowledgements)
-  - [FAQS](#4-faqs)
+  - [FAQS](#faqs)
+
   
-  ## Prerequisites
+## Prerequisites
   Before explainig the steps needed to host and format a resume on github. You first need to make sure you have all the tools needed.
   - **Markdown Editor** 
   Markdown is the most widely used lightweight markup language as stated by Andrew Etter in his book Modern Technical Writing. Markdown is easy to use and versatile, which is why it is important to learn about. You can choose to use github flavored Markdown, as it is useful when hosting the resume on github after. You are also free to use vanilla markdown or other flavors of it. To be able to see how it will be displayed, you can use any editor of your choice. These are some well known editors[Ghostwriter](https://ghostwriter.kde.org/), [MarkText](https://github.com/marktext/marktext), or [Visual Studio Code's](https://code.visualstudio.com/) built in editor. 
@@ -70,4 +71,21 @@ plugins:
 
 ## Authors and Acknowledgements
 [Farah Hegazi](https://github.com/farahhegazi)
+
+Special thanks to my group mates:
+- [Jacob Seraspi](https://github.com/jacobseraspi)
+- [Fengfan Bian]()
+
+## FAQS
+1. *Why is Markdown better than a word processor?*
+Markdown is better than a word processor due to its flexibility, and simple syntax. Using Markdown is better for displaying content on the web, since it can be easily converted to XHTML.
+
+2. *Why is my resume not showing up?*
+Some reasons why your resume might not be showing up is that:
+- your repository doesnt end with .io
+- you didnt edit your settings to ensure that it is deploying from the main branch.
+- your resume isnt named as index.md
+If you checked all of the points above, you might just need to wait for github pages to deploy your resume.
+
+
 
