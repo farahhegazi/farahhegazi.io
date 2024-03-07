@@ -68,3 +68,6 @@ plugins:
 2. [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 3. [Markdown Tutorial](https://www.markdowntutorial.com/)
 
+## Authors and Acknowledgements
+[Farah Hegazi](https://github.com/farahhegazi)
+
