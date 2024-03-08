@@ -6,7 +6,7 @@ An easy guide to create and host your resume on a static website using GitHub Pa
 In this document you will learn about hosting your resume on github pages, static websites, and markdown. 
 ![Resume](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1kdjI3ZWh1b3YzcGFrdHR3bGhpZDBtaGVsamFxZmYxbzNjcmdldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8HZ1wmshxbz0995Pa3/giphy.gif)
 
-
+## Contents
 - [Tutorial on Hosting a Resume on Github Pages](#tutorial-on-hosting-a-resume-on-github-pages)
   - [Prerequisites](#prerequisites)
   - [Instructions](#instructions)
@@ -32,6 +32,7 @@ In this document you will learn about hosting your resume on github pages, stati
 ### 0. Creating your resume
 
 To begin with you need to create your resume using markdown. Resources on how to use markdown to format your text will be added in the More Resources.
+When creating your resume, stay consistent with headers, font, size and overall structure. As mentioned in Andrew Etter's book, "Consistency is King". In addition, make sure you utilize different ways to style such as bold when it comes to headers. Andrew emphasizes the importance of style in his book.
 ### 1. Hosting your resume
 
 **Creating a Repository:**
@@ -72,11 +73,12 @@ plugins:
 1. [Andrew Etter's *Modern Technical Writing*](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS): Dive deeper into Technical Writing with this book.
 2. [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 3. [Markdown Tutorial](https://www.markdowntutorial.com/)
+4. [Github Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
 ## Authors and Acknowledgements
 [Farah Hegazi](https://github.com/farahhegazi)
 
-Special thanks to my group mates:
+Special thanks to my group mates for peer editing:
 - [Jacob Seraspi](https://github.com/jacobseraspi)
 - [Fengfan Bian]()
 
