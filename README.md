@@ -37,6 +37,7 @@ When creating your resume, stay consistent with headers, font, size and overall 
 
 **Creating a Repository:**
 The first thing you will do is to open github, open your profile page, and then click on the Repositories button. There you will find a green button called New. When you press on it you will be able to create your new repository. Make sure that your repository's name ends with an **.io**. You can make your repository public or private based on your needs.
+
 ![createRepo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VqYnBodHpodzY4bnA2ZWh3azF5eHFwYXVyeDlwZmNxM2lhbGcwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEcRFSZlp7nK6nF2YG/giphy.gif)
 
 **Upload Files into Repository**
