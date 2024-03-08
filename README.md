@@ -21,11 +21,11 @@ In this document you will learn about hosting your resume on github pages, stati
 ## Prerequisites
   Before explainig the steps needed to host and format a resume on github. You first need to make sure you have all the tools needed.
   - **Markdown Editor** 
-  Markdown is the most widely used lightweight markup language as stated by Andrew Etter in his book Modern Technical Writing. Markdown is easy to use and versatile, which is why it is important to learn about. You can choose to use github flavored Markdown, as it is useful when hosting the resume on github after. You are also free to use vanilla markdown or other flavors of it. To be able to see how it will be displayed, you can use any editor of your choice. These are some well known editors[Ghostwriter](https://ghostwriter.kde.org/), [MarkText](https://github.com/marktext/marktext), or [Visual Studio Code's](https://code.visualstudio.com/) built in editor. 
+  Markdown is the most widely used lightweight markup language as stated by Andrew Etter in his book Modern Technical Writing. Markdown is easy to use and versatile, which is why it is important to learn about. You can choose to use github flavored Markdown, as it is useful when hosting the resume on github after. Andrew also mentions that using github flavored markdown is commonly used. You are also free to use vanilla markdown or other flavors of it. To be able to see how it will be displayed, you can use any editor of your choice. These are some well known editors[Ghostwriter](https://ghostwriter.kde.org/), [MarkText](https://github.com/marktext/marktext), or [Visual Studio Code's](https://code.visualstudio.com/) built in editor. 
 
   - **Github Account** 
       
-  You will need a github account to host your website on github pages. All you need to do is go to this [link](https://github.com/) and sign up. 
+  You will need a github account to host your website on github pages. All you need to do is go to this [link](https://github.com/) and sign up. Andrew Etter mentions that using github desktop is helpful as well, so I will add a resource on how to set up your github desktop.
 
 
 ## Instructions
@@ -37,13 +37,11 @@ When creating your resume, stay consistent with headers, font, size and overall 
 
 **Creating a Repository:**
 The first thing you will do is to open github, open your profile page, and then click on the Repositories button. There you will find a green button called New. When you press on it you will be able to create your new repository. Make sure that your repository's name ends with an **.io**. You can make your repository public or private based on your needs.
-
-**Editing your settings:**
-After having your repository published, you will see a settings button. After clicking on it, look at the panel to the left and click on pages. Make sure your source is **deploy from branch** and that the github pages website will built from the **main** branch. 
+![createRepo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VqYnBodHpodzY4bnA2ZWh3azF5eHFwYXVyeDlwZmNxM2lhbGcwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEcRFSZlp7nK6nF2YG/giphy.gif)
 
 **Upload Files into Repository**
 
-After creating your repository and editing the settings, you will need to upload three files. 
+After creating your repository , you will need to upload three files. 
   - index.md 
   - _config.yml 
   - README.md 
@@ -56,8 +54,10 @@ The _config.yml file will add the Jekyll theme which will add some color and wil
 
 #### README.md
 Finally, the README.md file is where you explain what you're doing in this repository.
-
-
+![uploadFiles](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNienBhenpiMGh4dHZoeWRraGJvaHFydmtyZzI0emJzMmI2eTFhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVUXcnF9bS1zKxArmB/giphy.gif)
+**Editing your settings:**
+After having your repository published, you will see a settings button. After clicking on it, look at the panel to the left and click on pages. Make sure your source is **deploy from branch** and that the github pages website will built from the **main** branch. When you click to go back to the repository. You will notice a yellow circle this means your file is being deployed and worked on.
+![editSettings](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RiM3IyNTZmNWhsbGJ5aXRqYjBqcmJ0bTVyYXcyYmVhYWg3eXU1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVsGlp49Th0AsnxO0B/giphy.gif)
 ### 2. Jekyll Themes
 
 As previously mentioned, the _config.yml file will include Jekyll Themes. You can either to choose to use remote custom Jekyll Themes or use github's [supported theme's](https://pages.github.com/themes/). 
@@ -74,6 +74,7 @@ plugins:
 2. [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 3. [Markdown Tutorial](https://www.markdowntutorial.com/)
 4. [Github Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+5. [Github Desktop](https://desktop.github.com/)
 
 ## Authors and Acknowledgements
 [Farah Hegazi](https://github.com/farahhegazi)
@@ -93,5 +94,11 @@ Some reasons why your resume might not be showing up is that:
 - your resume isnt named as index.md
 If you checked all of the points above, you might just need to wait for github pages to deploy your resume.
 
+Refereneces :
+Andrew Etter - Modern Technical Writing, 24
+Andrew Etter - Modern Technical Writing, 25
+Andrew Etter - Modern Technical Writing, 39
+Andrew Etter - Modern Technical Writing, 40
+Andrew Etter - Modern Technical Writing, 46
 
 
