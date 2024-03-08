@@ -2,6 +2,10 @@
 
 An easy guide to create and host your resume on a static website using GitHub Pages, Jekyll, and Markdown.
 
+## Introduction 
+In this document you will learn about hosting your resume on github pages, static websites, and markdown. 
+[Resume](https://imgur.com/a/I0Zrdtd)
+
 
 - [Tutorial on Hosting a Resume on Github Pages](#tutorial-on-hosting-a-resume-on-github-pages)
   - [Prerequisites](#prerequisites)
