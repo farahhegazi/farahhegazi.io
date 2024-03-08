@@ -56,6 +56,7 @@ The _config.yml file will add the Jekyll theme which will add some color and wil
 Finally, the README.md file is where you explain what you're doing in this repository.
 ![uploadFiles](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNienBhenpiMGh4dHZoeWRraGJvaHFydmtyZzI0emJzMmI2eTFhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVUXcnF9bS1zKxArmB/giphy.gif)
 
+
 **Editing your settings:**
 After having your repository published, you will see a settings button. After clicking on it, look at the panel to the left and click on pages. Make sure your source is **deploy from branch** and that the github pages website will built from the **main** branch. When you click to go back to the repository. You will notice a yellow circle this means your file is being deployed and worked on.
 ![editSettings](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RiM3IyNTZmNWhsbGJ5aXRqYjBqcmJ0bTVyYXcyYmVhYWg3eXU1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVsGlp49Th0AsnxO0B/giphy.gif)
