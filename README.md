@@ -98,10 +98,10 @@ Some reasons why your resume might not be showing up is that:
 If you checked all of the points above, you might just need to wait for github pages to deploy your resume.
 
 Refereneces :
-Andrew Etter - Modern Technical Writing, 24
-Andrew Etter - Modern Technical Writing, 25
-Andrew Etter - Modern Technical Writing, 39
-Andrew Etter - Modern Technical Writing, 40
-Andrew Etter - Modern Technical Writing, 46
+- Andrew Etter - Modern Technical Writing, 24
+- Andrew Etter - Modern Technical Writing, 25
+- Andrew Etter - Modern Technical Writing, 39
+- Andrew Etter - Modern Technical Writing, 40
+- Andrew Etter - Modern Technical Writing, 46
 
 
