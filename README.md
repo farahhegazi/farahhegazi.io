@@ -41,7 +41,7 @@ The first thing you will do is to open github, open your profile page, and then 
 **Editing your settings:**
 After having your repository published, you will see a settings button. After clicking on it, look at the panel to the left and click on pages. Make sure your source is **deploy from branch** and that the github pages website will built from the **main** branch. 
 
-** Upload Files into Repository**
+**Upload Files into Repository**
 
 After creating your repository and editing the settings, you will need to upload three files. 
   - index.md 
