@@ -4,7 +4,7 @@ An easy guide to create and host your resume on a static website using GitHub Pa
 
 ## Introduction 
 In this document you will learn about hosting your resume on github pages, static websites, and markdown. 
-![Resume](https://imgur.com/a/I0Zrdtd)
+[Resume]([https://imgur.com/a/I0Zrdtd](https://imgur.com/eHiv7CZ))
 
 
 - [Tutorial on Hosting a Resume on Github Pages](#tutorial-on-hosting-a-resume-on-github-pages)
